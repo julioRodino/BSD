@@ -1,3 +1,4 @@
+% Main class for creating an instance of hsmm object
 classdef hsmm < handle 
     properties
         ndim
